@@ -8,9 +8,8 @@ Ingeniería en Sistemas Computacionales
 Materia: Sistemas Programables
 Practica: Elevador con Interfaz Gráfica
 
-ALUMNOS:
+ALUMNO:
 Bautista Arreola Esteban Misael
-Ibarra Hernández Héctor Napoleón
 
 Versión: Finalizada
 Comentarios: Este archivo admin.py es únicamente ejecutado cuando el administrador
