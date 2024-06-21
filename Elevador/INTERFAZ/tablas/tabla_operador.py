@@ -7,9 +7,8 @@
   Materia: Sistemas Programables
   Practica: Elevador con Interfaz Gráfica
 
-  ALUMNOS:
+  ALUMNO:
   Bautista Arreola Esteban Misael
-  Ibarra Hernández Héctor Napoleón 
 
   Version: Finalizada
   Comentarios: Este archivo tabla_operador es para ver quienes son los
