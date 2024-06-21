@@ -5,12 +5,10 @@
   Ingeniería en Sistemas Computacionales
 
   Materia: Sistemas Programables
-  Practica: Elevador en Interfaces Gráficas
-  Docente: ING. MIGUEL ÁNGUEL ACOSTA JIMÉNEZ
+  Practica: Elevador con Interfaz Gráfica
 
-  ALUMNOS:
+  ALUMNO:
   Bautista Arreola Esteban Misael
-  Ibarra Hernández Héctor Napoleón 
 
   Version: Finalizada
   Comentarios: Este archivo login.py es para revisar en la base de datos
