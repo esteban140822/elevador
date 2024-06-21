@@ -7,9 +7,8 @@
   Materia: Sistemas Programables
   Practica: Elevador con Interfaz Gráfica
 
-  ALUMNOS:
+  ALUMNO:
   Bautista Arreola Esteban Misael
-  Ibarra Hernández Héctor Napoleón 
 
   Version: Finalizada
   Comentarios: Este archivo admin.py es unicamente para registrar un nuevo operador.
