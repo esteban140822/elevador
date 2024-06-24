@@ -8,9 +8,8 @@
   Materia: Sistemas Programables
   Practica: Elevador Arduino
 
-  ALUMNOS:
+  ALUMNO:
   Bautista Arreola Esteban Misael
-  Ibarra Hernández Héctor Napoleón 
 
   Version: Finalizada
   Comentarios: Elevador funcional, cuenta con 5 botones, 4 para subir entre los pisos segun sean seleccionados
